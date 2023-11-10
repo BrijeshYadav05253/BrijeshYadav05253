@@ -4,18 +4,18 @@
 <img align="right" alt="Coding" width="150" src="https://img.freepik.com/premium-vector/people-chatting-vector-icon-illustration-logo-mascot-hand-drawn-concept-trandy-cartoon_519183-274.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrijeshYadav05253&label=Profile%20views&color=0e75b6&style=flat" alt="firdoshgithubdrive" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firdoshgithubdrive" alt="firdoshgithubdrive" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrijeshYadav05253&label=Profile%20views&color=0e75b6&style=flat" alt="BrijeshYadav05253" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrijeshYadav05253" alt="BrijeshYadav05253" /></a> </p>
 
 <h3>🧐 Some Things About Me</h3>
 
 - 🔭 I’m currently working on Projects
-- 🌱 I’m currently learning FullStack Developer form Newton School
+- 🌱 I’m currently learning FullStack Developer form JSpider
 - 👨‍💻 All of my projects are available at [https://cosmic-taiyaki-410b4c.netlify.app](https://cosmic-taiyaki-410b4c.netlify.app)
 - 🌱 I’m currently learning *DSA*
-- 💬 Ask me about *Web development & MERN*
+- 💬 Ask me about *Web development & Java Core*
 - 🏆 2022 Goals: Contribute more to Open Source Projects.
-- 📫 How to reach me *firdosha304@gmail.com*
+- 📫 How to reach me *brijeshyadav05253@gmail.com*
 
 Believe in five programming principles:
 
