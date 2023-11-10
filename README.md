@@ -1,10 +1,10 @@
 <h1 align="center">Hello World👋!</h1>
-<h3 align="center">Hi there 🙆‍♀, I'm Firdosh Alam, a fullstack developer with a passion for ui ux design and web creation.</h3>
+<h3 align="center">Hi there 🙆‍♀, I'm Brijesh Kumar Yadav, a fullstack developer with a passion for ui ux design and web creation.</h3>
 
 <img align="right" alt="Coding" width="150" src="https://img.freepik.com/premium-vector/people-chatting-vector-icon-illustration-logo-mascot-hand-drawn-concept-trandy-cartoon_519183-274.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firdoshgithubdrive&label=Profile%20views&color=0e75b6&style=flat" alt="firdoshgithubdrive" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BrijeshYadav05253&label=Profile%20views&color=0e75b6&style=flat" alt="firdoshgithubdrive" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firdoshgithubdrive" alt="firdoshgithubdrive" /></a> </p>
 
 <h3>🧐 Some Things About Me</h3>
